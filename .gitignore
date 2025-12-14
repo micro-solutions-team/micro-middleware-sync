@@ -1,0 +1,21 @@
+# Python bytecode
+__pycache__/
+*.py[cod]
+
+# Environments
+.env
+.venv
+env/
+venv/
+
+# Testing
+.pytest_cache/
+.coverage
+
+# Data & Logs (We want the code, not the local data)
+data/*.db
+logs/*.log
+
+# IDEs
+.vscode/
+.idea/
