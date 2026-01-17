@@ -11,8 +11,6 @@ This **Micro-Solution** provides a resilient, low-cost bridge to synchronize leg
 
 
 
----
-
 ## ✨ Key Features
 * **Decoupled Architecture:** Separate modules for Data Extraction, Transformation, and API Delivery.
 * **Resilience Engineering:** Custom Python decorators handle network flickers with automated retry logic and exponential backoff.
@@ -20,7 +18,7 @@ This **Micro-Solution** provides a resilient, low-cost bridge to synchronize leg
 * **Corporate Logging:** Structured audit trails stored in `/logs` for easy troubleshooting and compliance monitoring.
 * **CI/CD Ready:** Automated testing suite via GitHub Actions to ensure code quality on every push.
 
----
+
 
 ## 🛠️ Tech Stack
 * **Logic:** `Python 3.13`
@@ -47,7 +45,7 @@ Here is the optimized Markdown code for your README.md. I have added a clean hea
 
 Copy and paste this directly:
 
-Markdown
+
 # 🌉 Corporate Data Bridge: Legacy-to-Cloud Middleware
 
 [![Python CI/CD Pipeline](https://github.com/micro-solutions-team/micro-middleware-sync/actions/workflows/python-app.yml/badge.svg)](https://github.com/micro-solutions-team/micro-middleware-sync/actions)
