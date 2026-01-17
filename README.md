@@ -28,10 +28,9 @@ This **Micro-Solution** provides a resilient, low-cost bridge to synchronize leg
 * **Testing:** `Pytest` (Unit Testing)
 * **Configuration:** `Dotenv` (Secure environment management)
 
----
 
 ## 📂 Project Structure
-```text
+```
 ├── src/
 │   ├── middleware.py      # Core logic & sync engine
 │   ├── utils.py           # Resilience decorators & formatting logic
@@ -41,7 +40,7 @@ This **Micro-Solution** provides a resilient, low-cost bridge to synchronize leg
 ├── .github/workflows/     # CI/CD Pipeline (GitHub Actions)
 ├── .env                   # Configuration & credentials (GIT IGNORED)
 └── requirements.txt       # Production dependencies
-
+```
 
 
 Here is the optimized Markdown code for your README.md. I have added a clean header, professional icons, and better spacing to ensure it looks like a high-tier enterprise delivery.
